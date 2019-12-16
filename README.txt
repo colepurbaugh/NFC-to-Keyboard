@@ -3,6 +3,8 @@ https://learn.adafruit.com/adafruit-pn532-rfid-nfc/
 
 ****General Info****
 Current keyboard key: "d"
+Hardware: Teensy 3.2
+          Adafruit PN532 Breakout Board v1.6
 
 ****Make Changes****
 
