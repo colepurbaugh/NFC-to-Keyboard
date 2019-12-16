@@ -7,7 +7,7 @@ Current keyboard key: "d"
 # Make Changes
 
 ### Install Arduino IDE
-
+https://www.arduino.cc/en/main/software
 
 ### Clone repository
 https://github.com/colepurbaugh/NFC-to-Keyboard
