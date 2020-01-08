@@ -14,9 +14,13 @@ Hardware: Teensy 3.2
     **Clone repository**
     https://github.com/colepurbaugh/NFC-to-Keyboard
 
-    **Install Adafruit Library**
+    **Install Adafruit NFC Library**
     https://github.com/colepurbaugh/NFC-to-Keyboard/blob/master/Adafruit-PN532-master.zip
     place in arduino library folder
+    
+    **Install Teensyduino**
+    https://www.pjrc.com/teensy/td_download.html
+    Installer makes it so you can use a teensy with the regular arduino ide
 
     **Edit the code**
     edit line (77) --> Keyboard.print("?")
